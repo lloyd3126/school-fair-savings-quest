@@ -1,0 +1,1644 @@
+{
+  "slug": "animal-pack-remastered",
+  "inspectedAt": "2026-10-25T04:04:21.296Z",
+  "sourceDirectory": "asset-source/kenney/animal-pack-remastered/source",
+  "files": [
+    {
+      "path": "Kenney.url",
+      "bytes": 45
+    },
+    {
+      "path": "License.txt",
+      "bytes": 515
+    },
+    {
+      "path": "PNG/Round/Thumbs.db",
+      "bytes": 186368
+    },
+    {
+      "path": "PNG/Round/bear.png",
+      "bytes": 4050,
+      "width": 154,
+      "height": 132
+    },
+    {
+      "path": "PNG/Round/buffalo.png",
+      "bytes": 4545,
+      "width": 183,
+      "height": 152
+    },
+    {
+      "path": "PNG/Round/chick.png",
+      "bytes": 3052,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/chicken.png",
+      "bytes": 3489,
+      "width": 128,
+      "height": 145
+    },
+    {
+      "path": "PNG/Round/cow.png",
+      "bytes": 3858,
+      "width": 145,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/crocodile.png",
+      "bytes": 3392,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/dog.png",
+      "bytes": 3886,
+      "width": 129,
+      "height": 157
+    },
+    {
+      "path": "PNG/Round/duck.png",
+      "bytes": 3460,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/elephant.png",
+      "bytes": 4691,
+      "width": 183,
+      "height": 154
+    },
+    {
+      "path": "PNG/Round/frog.png",
+      "bytes": 2908,
+      "width": 130,
+      "height": 144
+    },
+    {
+      "path": "PNG/Round/giraffe.png",
+      "bytes": 4518,
+      "width": 154,
+      "height": 162
+    },
+    {
+      "path": "PNG/Round/goat.png",
+      "bytes": 4984,
+      "width": 184,
+      "height": 171
+    },
+    {
+      "path": "PNG/Round/gorilla.png",
+      "bytes": 3166,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/hippo.png",
+      "bytes": 3220,
+      "width": 154,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/horse.png",
+      "bytes": 4174,
+      "width": 129,
+      "height": 141
+    },
+    {
+      "path": "PNG/Round/monkey.png",
+      "bytes": 3856,
+      "width": 174,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/moose.png",
+      "bytes": 6048,
+      "width": 269,
+      "height": 162
+    },
+    {
+      "path": "PNG/Round/narwhal.png",
+      "bytes": 4216,
+      "width": 138,
+      "height": 155
+    },
+    {
+      "path": "PNG/Round/owl.png",
+      "bytes": 4020,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/panda.png",
+      "bytes": 3868,
+      "width": 174,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/parrot.png",
+      "bytes": 3639,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/penguin.png",
+      "bytes": 3253,
+      "width": 140,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/pig.png",
+      "bytes": 3669,
+      "width": 144,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/rabbit.png",
+      "bytes": 4029,
+      "width": 129,
+      "height": 176
+    },
+    {
+      "path": "PNG/Round/rhino.png",
+      "bytes": 3631,
+      "width": 154,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/sloth.png",
+      "bytes": 3388,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round/snake.png",
+      "bytes": 3243,
+      "width": 128,
+      "height": 142
+    },
+    {
+      "path": "PNG/Round/walrus.png",
+      "bytes": 3693,
+      "width": 128,
+      "height": 138
+    },
+    {
+      "path": "PNG/Round/whale.png",
+      "bytes": 3646,
+      "width": 138,
+      "height": 154
+    },
+    {
+      "path": "PNG/Round/zebra.png",
+      "bytes": 3906,
+      "width": 128,
+      "height": 141
+    },
+    {
+      "path": "PNG/Round (outline)/Thumbs.db",
+      "bytes": 238592
+    },
+    {
+      "path": "PNG/Round (outline)/bear.png",
+      "bytes": 4705,
+      "width": 162,
+      "height": 140
+    },
+    {
+      "path": "PNG/Round (outline)/buffalo.png",
+      "bytes": 5467,
+      "width": 191,
+      "height": 160
+    },
+    {
+      "path": "PNG/Round (outline)/chick.png",
+      "bytes": 3673,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/chicken.png",
+      "bytes": 4144,
+      "width": 136,
+      "height": 153
+    },
+    {
+      "path": "PNG/Round (outline)/cow.png",
+      "bytes": 4428,
+      "width": 153,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/crocodile.png",
+      "bytes": 4009,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/dog.png",
+      "bytes": 4561,
+      "width": 137,
+      "height": 165
+    },
+    {
+      "path": "PNG/Round (outline)/duck.png",
+      "bytes": 4060,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/elephant.png",
+      "bytes": 5595,
+      "width": 191,
+      "height": 162
+    },
+    {
+      "path": "PNG/Round (outline)/frog.png",
+      "bytes": 3644,
+      "width": 138,
+      "height": 152
+    },
+    {
+      "path": "PNG/Round (outline)/giraffe.png",
+      "bytes": 5325,
+      "width": 162,
+      "height": 170
+    },
+    {
+      "path": "PNG/Round (outline)/goat.png",
+      "bytes": 5994,
+      "width": 192,
+      "height": 179
+    },
+    {
+      "path": "PNG/Round (outline)/gorilla.png",
+      "bytes": 3729,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/hippo.png",
+      "bytes": 3943,
+      "width": 162,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/horse.png",
+      "bytes": 4771,
+      "width": 137,
+      "height": 149
+    },
+    {
+      "path": "PNG/Round (outline)/monkey.png",
+      "bytes": 4483,
+      "width": 182,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/moose.png",
+      "bytes": 7271,
+      "width": 277,
+      "height": 170
+    },
+    {
+      "path": "PNG/Round (outline)/narwhal.png",
+      "bytes": 4938,
+      "width": 146,
+      "height": 163
+    },
+    {
+      "path": "PNG/Round (outline)/owl.png",
+      "bytes": 4625,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/panda.png",
+      "bytes": 4491,
+      "width": 182,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/parrot.png",
+      "bytes": 4244,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/penguin.png",
+      "bytes": 3850,
+      "width": 148,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/pig.png",
+      "bytes": 4300,
+      "width": 152,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/rabbit.png",
+      "bytes": 4740,
+      "width": 137,
+      "height": 184
+    },
+    {
+      "path": "PNG/Round (outline)/rhino.png",
+      "bytes": 4283,
+      "width": 162,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/sloth.png",
+      "bytes": 3979,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round (outline)/snake.png",
+      "bytes": 3864,
+      "width": 136,
+      "height": 150
+    },
+    {
+      "path": "PNG/Round (outline)/walrus.png",
+      "bytes": 4329,
+      "width": 136,
+      "height": 146
+    },
+    {
+      "path": "PNG/Round (outline)/whale.png",
+      "bytes": 4355,
+      "width": 146,
+      "height": 162
+    },
+    {
+      "path": "PNG/Round (outline)/zebra.png",
+      "bytes": 4593,
+      "width": 136,
+      "height": 149
+    },
+    {
+      "path": "PNG/Round without details/Thumbs.db",
+      "bytes": 175104
+    },
+    {
+      "path": "PNG/Round without details/bear.png",
+      "bytes": 3145,
+      "width": 128,
+      "height": 129
+    },
+    {
+      "path": "PNG/Round without details/buffalo.png",
+      "bytes": 3555,
+      "width": 129,
+      "height": 129
+    },
+    {
+      "path": "PNG/Round without details/chick.png",
+      "bytes": 3052,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/chicken.png",
+      "bytes": 3297,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/cow.png",
+      "bytes": 3245,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/crocodile.png",
+      "bytes": 3353,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/dog.png",
+      "bytes": 2929,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/duck.png",
+      "bytes": 3460,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/elephant.png",
+      "bytes": 3224,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/frog.png",
+      "bytes": 2789,
+      "width": 128,
+      "height": 129
+    },
+    {
+      "path": "PNG/Round without details/giraffe.png",
+      "bytes": 3022,
+      "width": 128,
+      "height": 129
+    },
+    {
+      "path": "PNG/Round without details/goat.png",
+      "bytes": 3951,
+      "width": 128,
+      "height": 129
+    },
+    {
+      "path": "PNG/Round without details/gorilla.png",
+      "bytes": 3166,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/hippo.png",
+      "bytes": 2401,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/horse.png",
+      "bytes": 3537,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/monkey.png",
+      "bytes": 2914,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/moose.png",
+      "bytes": 3044,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/narwhal.png",
+      "bytes": 3518,
+      "width": 132,
+      "height": 132
+    },
+    {
+      "path": "PNG/Round without details/owl.png",
+      "bytes": 3824,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/panda.png",
+      "bytes": 2774,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/parrot.png",
+      "bytes": 3445,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/penguin.png",
+      "bytes": 2896,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/pig.png",
+      "bytes": 2745,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/rabbit.png",
+      "bytes": 2795,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/rhino.png",
+      "bytes": 2795,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/sloth.png",
+      "bytes": 3388,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/snake.png",
+      "bytes": 3191,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/walrus.png",
+      "bytes": 3575,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details/whale.png",
+      "bytes": 2707,
+      "width": 132,
+      "height": 131
+    },
+    {
+      "path": "PNG/Round without details/zebra.png",
+      "bytes": 3368,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Round without details (outline)/Thumbs.db",
+      "bytes": 231424
+    },
+    {
+      "path": "PNG/Round without details (outline)/bear.png",
+      "bytes": 3730,
+      "width": 136,
+      "height": 137
+    },
+    {
+      "path": "PNG/Round without details (outline)/buffalo.png",
+      "bytes": 4232,
+      "width": 137,
+      "height": 137
+    },
+    {
+      "path": "PNG/Round without details (outline)/chick.png",
+      "bytes": 3673,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/chicken.png",
+      "bytes": 3891,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/cow.png",
+      "bytes": 3766,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/crocodile.png",
+      "bytes": 3971,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/dog.png",
+      "bytes": 3529,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/duck.png",
+      "bytes": 4060,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/elephant.png",
+      "bytes": 3853,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/frog.png",
+      "bytes": 3450,
+      "width": 136,
+      "height": 137
+    },
+    {
+      "path": "PNG/Round without details (outline)/giraffe.png",
+      "bytes": 3637,
+      "width": 136,
+      "height": 137
+    },
+    {
+      "path": "PNG/Round without details (outline)/goat.png",
+      "bytes": 4560,
+      "width": 136,
+      "height": 137
+    },
+    {
+      "path": "PNG/Round without details (outline)/gorilla.png",
+      "bytes": 3729,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/hippo.png",
+      "bytes": 3005,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/horse.png",
+      "bytes": 4125,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/monkey.png",
+      "bytes": 3525,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/moose.png",
+      "bytes": 3659,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/narwhal.png",
+      "bytes": 4153,
+      "width": 140,
+      "height": 140
+    },
+    {
+      "path": "PNG/Round without details (outline)/owl.png",
+      "bytes": 4469,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/panda.png",
+      "bytes": 3369,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/parrot.png",
+      "bytes": 4053,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/penguin.png",
+      "bytes": 3496,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/pig.png",
+      "bytes": 3365,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/rabbit.png",
+      "bytes": 3419,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/rhino.png",
+      "bytes": 3390,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/sloth.png",
+      "bytes": 3974,
+      "width": 137,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/snake.png",
+      "bytes": 3788,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/walrus.png",
+      "bytes": 4168,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Round without details (outline)/whale.png",
+      "bytes": 3349,
+      "width": 140,
+      "height": 139
+    },
+    {
+      "path": "PNG/Round without details (outline)/zebra.png",
+      "bytes": 4000,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square/Thumbs.db",
+      "bytes": 126976
+    },
+    {
+      "path": "PNG/Square/bear.png",
+      "bytes": 2895,
+      "width": 162,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/buffalo.png",
+      "bytes": 3754,
+      "width": 184,
+      "height": 154
+    },
+    {
+      "path": "PNG/Square/chick.png",
+      "bytes": 2073,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/chicken.png",
+      "bytes": 2722,
+      "width": 128,
+      "height": 145
+    },
+    {
+      "path": "PNG/Square/cow.png",
+      "bytes": 3033,
+      "width": 186,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/crocodile.png",
+      "bytes": 2214,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/dog.png",
+      "bytes": 2739,
+      "width": 128,
+      "height": 161
+    },
+    {
+      "path": "PNG/Square/duck.png",
+      "bytes": 2479,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/elephant.png",
+      "bytes": 3884,
+      "width": 184,
+      "height": 138
+    },
+    {
+      "path": "PNG/Square/frog.png",
+      "bytes": 2213,
+      "width": 138,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/giraffe.png",
+      "bytes": 3322,
+      "width": 162,
+      "height": 161
+    },
+    {
+      "path": "PNG/Square/goat.png",
+      "bytes": 4383,
+      "width": 184,
+      "height": 171
+    },
+    {
+      "path": "PNG/Square/gorilla.png",
+      "bytes": 2291,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/hippo.png",
+      "bytes": 2146,
+      "width": 166,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/horse.png",
+      "bytes": 2843,
+      "width": 128,
+      "height": 143
+    },
+    {
+      "path": "PNG/Square/monkey.png",
+      "bytes": 2992,
+      "width": 174,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/moose.png",
+      "bytes": 5059,
+      "width": 268,
+      "height": 162
+    },
+    {
+      "path": "PNG/Square/narwhal.png",
+      "bytes": 3266,
+      "width": 146,
+      "height": 145
+    },
+    {
+      "path": "PNG/Square/owl.png",
+      "bytes": 2871,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/panda.png",
+      "bytes": 2962,
+      "width": 178,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/parrot.png",
+      "bytes": 2507,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/penguin.png",
+      "bytes": 2235,
+      "width": 147,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/pig.png",
+      "bytes": 3077,
+      "width": 170,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/rabbit.png",
+      "bytes": 3102,
+      "width": 128,
+      "height": 176
+    },
+    {
+      "path": "PNG/Square/rhino.png",
+      "bytes": 2840,
+      "width": 163,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/sloth.png",
+      "bytes": 2452,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square/snake.png",
+      "bytes": 2512,
+      "width": 129,
+      "height": 139
+    },
+    {
+      "path": "PNG/Square/walrus.png",
+      "bytes": 3058,
+      "width": 129,
+      "height": 134
+    },
+    {
+      "path": "PNG/Square/whale.png",
+      "bytes": 2576,
+      "width": 148,
+      "height": 157
+    },
+    {
+      "path": "PNG/Square/zebra.png",
+      "bytes": 3126,
+      "width": 128,
+      "height": 145
+    },
+    {
+      "path": "PNG/Square (outline)/Thumbs.db",
+      "bytes": 166400
+    },
+    {
+      "path": "PNG/Square (outline)/bear.png",
+      "bytes": 3245,
+      "width": 170,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/buffalo.png",
+      "bytes": 4552,
+      "width": 192,
+      "height": 162
+    },
+    {
+      "path": "PNG/Square (outline)/chick.png",
+      "bytes": 2279,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/chicken.png",
+      "bytes": 3020,
+      "width": 136,
+      "height": 153
+    },
+    {
+      "path": "PNG/Square (outline)/cow.png",
+      "bytes": 3415,
+      "width": 194,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/crocodile.png",
+      "bytes": 2424,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/dog.png",
+      "bytes": 3202,
+      "width": 136,
+      "height": 169
+    },
+    {
+      "path": "PNG/Square (outline)/duck.png",
+      "bytes": 2687,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/elephant.png",
+      "bytes": 4513,
+      "width": 192,
+      "height": 146
+    },
+    {
+      "path": "PNG/Square (outline)/frog.png",
+      "bytes": 2508,
+      "width": 146,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/giraffe.png",
+      "bytes": 4006,
+      "width": 170,
+      "height": 169
+    },
+    {
+      "path": "PNG/Square (outline)/goat.png",
+      "bytes": 5037,
+      "width": 192,
+      "height": 179
+    },
+    {
+      "path": "PNG/Square (outline)/gorilla.png",
+      "bytes": 2502,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/hippo.png",
+      "bytes": 2565,
+      "width": 174,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/horse.png",
+      "bytes": 3136,
+      "width": 136,
+      "height": 151
+    },
+    {
+      "path": "PNG/Square (outline)/monkey.png",
+      "bytes": 3449,
+      "width": 182,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/moose.png",
+      "bytes": 5951,
+      "width": 276,
+      "height": 170
+    },
+    {
+      "path": "PNG/Square (outline)/narwhal.png",
+      "bytes": 3668,
+      "width": 154,
+      "height": 153
+    },
+    {
+      "path": "PNG/Square (outline)/owl.png",
+      "bytes": 3073,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/panda.png",
+      "bytes": 3402,
+      "width": 186,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/parrot.png",
+      "bytes": 2722,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/penguin.png",
+      "bytes": 2595,
+      "width": 155,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/pig.png",
+      "bytes": 3465,
+      "width": 178,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/rabbit.png",
+      "bytes": 3585,
+      "width": 136,
+      "height": 184
+    },
+    {
+      "path": "PNG/Square (outline)/rhino.png",
+      "bytes": 3160,
+      "width": 171,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/sloth.png",
+      "bytes": 2678,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square (outline)/snake.png",
+      "bytes": 2754,
+      "width": 136,
+      "height": 147
+    },
+    {
+      "path": "PNG/Square (outline)/walrus.png",
+      "bytes": 3327,
+      "width": 136,
+      "height": 142
+    },
+    {
+      "path": "PNG/Square (outline)/whale.png",
+      "bytes": 3018,
+      "width": 156,
+      "height": 165
+    },
+    {
+      "path": "PNG/Square (outline)/zebra.png",
+      "bytes": 3474,
+      "width": 136,
+      "height": 153
+    },
+    {
+      "path": "PNG/Square without details/Thumbs.db",
+      "bytes": 91136
+    },
+    {
+      "path": "PNG/Square without details/bear.png",
+      "bytes": 2193,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/buffalo.png",
+      "bytes": 2674,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/chick.png",
+      "bytes": 2073,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/chicken.png",
+      "bytes": 2404,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/cow.png",
+      "bytes": 2312,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/crocodile.png",
+      "bytes": 2214,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/dog.png",
+      "bytes": 2014,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/duck.png",
+      "bytes": 2479,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/elephant.png",
+      "bytes": 2401,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/frog.png",
+      "bytes": 1839,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/giraffe.png",
+      "bytes": 2056,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/goat.png",
+      "bytes": 3033,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/gorilla.png",
+      "bytes": 2291,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/hippo.png",
+      "bytes": 1456,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/horse.png",
+      "bytes": 2463,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/monkey.png",
+      "bytes": 2098,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/moose.png",
+      "bytes": 2165,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/narwhal.png",
+      "bytes": 2622,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/owl.png",
+      "bytes": 2871,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/panda.png",
+      "bytes": 1968,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/parrot.png",
+      "bytes": 2507,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/penguin.png",
+      "bytes": 1934,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/pig.png",
+      "bytes": 1985,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/rabbit.png",
+      "bytes": 2037,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/rhino.png",
+      "bytes": 2079,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/sloth.png",
+      "bytes": 2452,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/snake.png",
+      "bytes": 2453,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/walrus.png",
+      "bytes": 2881,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/whale.png",
+      "bytes": 1767,
+      "width": 129,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details/zebra.png",
+      "bytes": 2692,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "PNG/Square without details (outline)/Thumbs.db",
+      "bytes": 132608
+    },
+    {
+      "path": "PNG/Square without details (outline)/bear.png",
+      "bytes": 2393,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/buffalo.png",
+      "bytes": 2880,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/chick.png",
+      "bytes": 2279,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/chicken.png",
+      "bytes": 2605,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/cow.png",
+      "bytes": 2520,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/crocodile.png",
+      "bytes": 2425,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/dog.png",
+      "bytes": 2231,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/duck.png",
+      "bytes": 2694,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/elephant.png",
+      "bytes": 2617,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/frog.png",
+      "bytes": 2050,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/giraffe.png",
+      "bytes": 2261,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/goat.png",
+      "bytes": 3219,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/gorilla.png",
+      "bytes": 2498,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/hippo.png",
+      "bytes": 1676,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/horse.png",
+      "bytes": 2649,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/monkey.png",
+      "bytes": 2291,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/moose.png",
+      "bytes": 2342,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/narwhal.png",
+      "bytes": 2831,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/owl.png",
+      "bytes": 3075,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/panda.png",
+      "bytes": 2157,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/parrot.png",
+      "bytes": 2722,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/penguin.png",
+      "bytes": 2148,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/pig.png",
+      "bytes": 2174,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/rabbit.png",
+      "bytes": 2246,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/rhino.png",
+      "bytes": 2275,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/sloth.png",
+      "bytes": 2670,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/snake.png",
+      "bytes": 2641,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/walrus.png",
+      "bytes": 3066,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/whale.png",
+      "bytes": 1966,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "PNG/Square without details (outline)/zebra.png",
+      "bytes": 2915,
+      "width": 136,
+      "height": 136
+    },
+    {
+      "path": "Patreon.url",
+      "bytes": 55
+    },
+    {
+      "path": "Preview.png",
+      "bytes": 263073,
+      "width": 918,
+      "height": 515
+    },
+    {
+      "path": "Spritesheet/round.png",
+      "bytes": 75497,
+      "width": 871,
+      "height": 859
+    },
+    {
+      "path": "Spritesheet/round.xml",
+      "bytes": 2233
+    },
+    {
+      "path": "Spritesheet/roundOutline.png",
+      "bytes": 97381,
+      "width": 916,
+      "height": 920
+    },
+    {
+      "path": "Spritesheet/roundOutline.xml",
+      "bytes": 2242
+    },
+    {
+      "path": "Spritesheet/round_nodetails.png",
+      "bytes": 63253,
+      "width": 771,
+      "height": 770
+    },
+    {
+      "path": "Spritesheet/round_nodetails.xml",
+      "bytes": 2243
+    },
+    {
+      "path": "Spritesheet/round_nodetailsOutline.png",
+      "bytes": 80115,
+      "width": 819,
+      "height": 818
+    },
+    {
+      "path": "Spritesheet/round_nodetailsOutline.xml",
+      "bytes": 2250
+    },
+    {
+      "path": "Spritesheet/square.png",
+      "bytes": 61403,
+      "width": 879,
+      "height": 881
+    },
+    {
+      "path": "Spritesheet/square.xml",
+      "bytes": 2232
+    },
+    {
+      "path": "Spritesheet/squareOutline.png",
+      "bytes": 73317,
+      "width": 918,
+      "height": 929
+    },
+    {
+      "path": "Spritesheet/squareOutline.xml",
+      "bytes": 2239
+    },
+    {
+      "path": "Spritesheet/square_nodetails.png",
+      "bytes": 48001,
+      "width": 641,
+      "height": 768
+    },
+    {
+      "path": "Spritesheet/square_nodetails.xml",
+      "bytes": 2242
+    },
+    {
+      "path": "Spritesheet/square_nodetailsOutline.png",
+      "bytes": 52950,
+      "width": 680,
+      "height": 816
+    },
+    {
+      "path": "Spritesheet/square_nodetailsOutline.xml",
+      "bytes": 2249
+    },
+    {
+      "path": "Vector/round.svg",
+      "bytes": 227527
+    },
+    {
+      "path": "Vector/round.swf",
+      "bytes": 25774
+    },
+    {
+      "path": "Vector/roundOutline.svg",
+      "bytes": 259037
+    },
+    {
+      "path": "Vector/roundOutline.swf",
+      "bytes": 31461
+    },
+    {
+      "path": "Vector/round_nodetails.svg",
+      "bytes": 182948
+    },
+    {
+      "path": "Vector/round_nodetails.swf",
+      "bytes": 20360
+    },
+    {
+      "path": "Vector/round_nodetailsOutline.svg",
+      "bytes": 202589
+    },
+    {
+      "path": "Vector/round_nodetailsOutline.swf",
+      "bytes": 23223
+    },
+    {
+      "path": "Vector/square.svg",
+      "bytes": 243593
+    },
+    {
+      "path": "Vector/square.swf",
+      "bytes": 24604
+    },
+    {
+      "path": "Vector/squareOutline.svg",
+      "bytes": 277883
+    },
+    {
+      "path": "Vector/squareOutline.swf",
+      "bytes": 27546
+    },
+    {
+      "path": "Vector/square_nodetails.svg",
+      "bytes": 200440
+    },
+    {
+      "path": "Vector/square_nodetails.swf",
+      "bytes": 18445
+    },
+    {
+      "path": "Vector/square_nodetailsOutline.svg",
+      "bytes": 213004
+    },
+    {
+      "path": "Vector/square_nodetailsOutline.swf",
+      "bytes": 19319
+    }
+  ],
+  "licenseFiles": [
+    "License.txt"
+  ]
+}
